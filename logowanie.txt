@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hasło: 12345
+=======
+hasło: 55555
+>>>>>>> dc2b08a (Ustawienie hasła: user 1)
